@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.black{
+    background: #000;
+    height: 400px;
+    display: flex;  
+    flex-direction:column;
+    
+    
+    
+}
+.black div{
+    background: orange;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    padding: 10px;
+    color: #FFF
+}
